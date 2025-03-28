@@ -27,19 +27,14 @@ This project is a Netflix clone developed using the MERN stack (MongoDB, Express
 ### Signup Page
 ![Signup Page](https://github.com/askhan963/netflix-clone-mern/blob/main/screenshots/signup.png)
 
-### Our Team
-![Our Team](https://github.com/askhan963/netflix-clone-mern/blob/main/screenshots/team.png)
-
 ### Main Page
 ![Main Page](https://github.com/askhan963/netflix-clone-mern/blob/main/screenshots/mainpage.png)
 
 ### Main
 ![Main](https://github.com/askhan963/netflix-clone-mern/blob/main/screenshots/main.png)
 
-
-
 ## Contributors
 
-- [Muhammad Awais Khan]
+- [Yashwant sahu]
 
 Feel free to contribute to the project and make it even better!
